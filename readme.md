@@ -6,4 +6,6 @@ As of [10/8/2023] I am currently certified in:
 - CSS / SCSS
 - Javascript
 - Ruby (on rails)
+- Python
+- Java
 - Working on C++
